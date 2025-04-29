@@ -1,0 +1,37 @@
+#casilla1{
+    background-color:lightsalmon;
+    height: 100px;
+}
+#casilla2{
+    background-color: peru;
+    height: 100px;
+}
+#boton{
+    height: 30px;
+    width: 250px;
+    background-color: white;
+
+}
+table{
+    width:50%;
+}
+
+#recrojo{
+    text-align: center;
+    background-color:orangered;
+    margin-top:100px;
+    height: 120px;
+    
+}
+#text{
+    margin:20px;
+    border-width: 5%;
+    border-color:black;
+    border-style:solid;
+    
+
+}
+h1{
+    margin-top: 300px;
+    margin-bottom: 40px;
+}
